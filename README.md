@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/danielpdwalker/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a> <a href="https://medium.com/@danielpdwalker" target="_blank"><img src="https://img.shields.io/badge/Medium-Profile-black?logo=medium" alt="Medium"></a>
 
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielpdwalker&theme=tokyonight&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielpdwalker&theme=tokyonight&show_icons=true&count_private=true&number_format=long)](https://github.com/anuraghazra/github-readme-stats)
 
