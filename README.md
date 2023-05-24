@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Daniel 👋
+
+<a href="https://www.linkedin.com/in/danielpdwalker/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a> <a href="https://medium.com/@danielpdwalker" target="_blank"><img src="https://img.shields.io/badge/Medium-Profile-black?logo=medium" alt="Medium"></a>
+
+
+
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielpdwalker&theme=tokyonight&show_icons=true&count_private=true&number_format=long)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DanielPDWalker/DanielPDWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
