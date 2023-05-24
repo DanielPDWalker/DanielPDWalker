@@ -4,7 +4,7 @@
 
 📊 On the data side I've been mostly using Python, SQL, dbt, Snowflake, Postgres, Jupyter Notebooks and recently ChatGPT.
 
-👨‍💻 Also been building and maintaining our API with Java, as well as our App with React, Javascript, HTML & CSS.
+👨‍💻 Also been building and maintaining our API using Java, as well as our App with React, Javascript, HTML & CSS.
 
 ✍️ Occasionally I write articles and posts about all things data, find my medium link below!
 
