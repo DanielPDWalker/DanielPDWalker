@@ -12,9 +12,14 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielpdwalker&theme=tokyonight&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielpdwalker&theme=tokyonight&show_icons=true&count_private=true&number_format=long)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=danielpdwalker&theme=tokyonight&show_icons=true&count_private=true&number_format=long" alt="Daniel's GitHub stats">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielpdwalker&theme=tokyonight&hide=jupyter%20notebook&layout=compact" alt="Top Langs">
+  </a>
+</div>
 
 <!--
 **DanielPDWalker/DanielPDWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
