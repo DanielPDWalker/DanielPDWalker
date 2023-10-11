@@ -10,6 +10,8 @@
 
 ✍️ Occasionally I write articles and posts about all things data, find my medium link above!
 
+🐀 Inventor of the critically-unacclaimed Rat Game
+
 ---
 
 <div>
