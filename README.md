@@ -14,9 +14,6 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielpdwalker&theme=tokyonight&show_icons=true&number_format=long&count_private=true" alt="Daniel's GitHub stats">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danielpdwalker&theme=tokyonight&hide=jupyter%20notebook&layout=compact" alt="Top Langs">
   </a>
 </div>
