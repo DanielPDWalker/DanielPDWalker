@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/danielpdwalker/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn"></a> <a href="https://medium.com/@danielpdwalker" target="_blank"><img src="https://img.shields.io/badge/Medium-Profile-black?logo=medium" alt="Medium"></a>
 
-💼 Currently working as a Analytics Engineer at [Matatika](https://www.matatika.com/), exploring new ways to use and get the most out of data.
+💼 Currently working as a Analytics Engineer at [Meltano](https://meltano.com/), exploring new ways to use and get the most out of data.
 
 📊 On the data side I've been mostly using Python, SQL, dbt, Snowflake, Postgres, Jupyter Notebooks and recently ChatGPT.
 
